@@ -9,8 +9,39 @@
     <atom:link href="https://tpî.eu/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Thomas Piart - tpî.eu - Personal site</description>
-    <pubDate>Sat, 10 Oct 2020 00:00:00 GMT</pubDate>
+    <pubDate>Wed, 30 Dec 2020 00:00:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Deploy hexo on Vercel</title>
+      <link>https://tpî.eu/2020/12/30/deploy-hexo-on-vercel/</link>
+      <guid>https://tpî.eu/2020/12/30/deploy-hexo-on-vercel/</guid>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;Deploying a Hexo site on &lt;strong&gt;Vercel&lt;/strong&gt; is super easy!&lt;/p&gt;
+&lt;p&gt;Let’s remind some basics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://hexo.io/&quot; </description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>Deploying a Hexo site on <strong>Vercel</strong> is super easy!</p><p>Let’s remind some basics:</p><ul><li><a href="https://hexo.io/" rel="noopener external nofollow noreferrer">Hexo</a> is a static site generator. Meaning that you can generate a pure HTML site that does not rely on a backend server (PHP, nodejs, …)</li><li><a href="https://vercel.com/" rel="noopener external nofollow noreferrer">Vercel</a> is a bit like Netlify, it allow you to host your static site, and offers you features to make it more dynamic (authentication, lambda functions)</li></ul><p>At Vercel, they made a great job at making the onboarding easy and complete.</p><h2>Pre requisites</h2><p>Your Hexo site sources must be hosted on GitHub (also works with GitLab and Bitbucket).</p><p>If you don’t have one already, you can <a href="https://hexo.io/docs/#Installation" rel="noopener external nofollow noreferrer">follow this doc to create one</a> or even simpler, <a href="https://github.com/hexojs/hexo-starter" rel="noopener external nofollow noreferrer">fork the hexo-starter repository</a>.</p><h2>First Deploy</h2><p>Once you are ready, go to <a href="https://vercel.com/" rel="noopener external nofollow noreferrer">https://vercel.com</a></p><p>Choose the GitHub login (button “Continue with GitHub”)</p><p>Then click on “Continue” below “Import Git Repository”.</p><p>Paste your git repository url: <code>https://github.com/&lt;username&gt;/hexo-starter</code></p><p>Vercel will ask you if it’s your repository or not. Say Yes.</p><p>It will redirect you to GitHub Authorization screen, where you need to allow Vercel to have access to your repository.</p><p>Once you are done, Vercel will deploy your site to their domain: <a href="https://my-site.vercel.app/" rel="noopener external nofollow noreferrer">https://my-site.vercel.app</a></p><h2>Custom Domain</h2><p>You can easily configure a domain to point to your Vercel deployment via the Menu: <em>My Project</em> &gt; Settings &gt; Domains where they ask you to provide the domain name you want to define, and then you have to add a <strong>CNAME</strong> to your DNS</p><p>And voila :)</p><p>For me, the result is here:</p><ul><li><a href="https://tpi2-eu.vercel.app/" rel="noopener external nofollow noreferrer">https://tpi2-eu.vercel.app/</a></li><li><a href="https://vercel.tpî.eu/" rel="noopener external nofollow noreferrer">https://vercel.tpî.eu/</a></li></ul>]]></content:encoded>
+      
+      
+      
+      <category domain="https://tpî.eu/tags/hexo/">hexo</category>
+      
+      <category domain="https://tpî.eu/tags/hosting/">hosting</category>
+      
+      <category domain="https://tpî.eu/tags/vercel/">vercel</category>
+      
+      
+      <comments>https://tpî.eu/2020/12/30/deploy-hexo-on-vercel/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Flickr tag improved</title>
