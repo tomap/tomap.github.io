@@ -235,11 +235,11 @@
       
       <category domain="https://tpî.eu/tags/hexo/">hexo</category>
       
-      <category domain="https://tpî.eu/tags/travis/">travis</category>
+      <category domain="https://tpî.eu/tags/firebase/">firebase</category>
       
       <category domain="https://tpî.eu/tags/hosting/">hosting</category>
       
-      <category domain="https://tpî.eu/tags/firebase/">firebase</category>
+      <category domain="https://tpî.eu/tags/travis/">travis</category>
       
       
       <comments>https://tpî.eu/2017/12/20/Testing-Firebase-hosting/#disqus_thread</comments>
@@ -376,9 +376,9 @@
       
       <category domain="https://tpî.eu/tags/github/">github</category>
       
-      <category domain="https://tpî.eu/tags/letsencrypt/">letsencrypt</category>
-      
       <category domain="https://tpî.eu/tags/hosting/">hosting</category>
+      
+      <category domain="https://tpî.eu/tags/letsencrypt/">letsencrypt</category>
       
       
       <comments>https://tpî.eu/2017/02/16/V2-published/#disqus_thread</comments>

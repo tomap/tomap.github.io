@@ -226,11 +226,11 @@
     
     <category term="hexo" scheme="https://tpî.eu/tags/hexo/"/>
     
-    <category term="travis" scheme="https://tpî.eu/tags/travis/"/>
+    <category term="firebase" scheme="https://tpî.eu/tags/firebase/"/>
     
     <category term="hosting" scheme="https://tpî.eu/tags/hosting/"/>
     
-    <category term="firebase" scheme="https://tpî.eu/tags/firebase/"/>
+    <category term="travis" scheme="https://tpî.eu/tags/travis/"/>
     
   </entry>
   
@@ -357,9 +357,9 @@
     
     <category term="github" scheme="https://tpî.eu/tags/github/"/>
     
-    <category term="letsencrypt" scheme="https://tpî.eu/tags/letsencrypt/"/>
-    
     <category term="hosting" scheme="https://tpî.eu/tags/hosting/"/>
+    
+    <category term="letsencrypt" scheme="https://tpî.eu/tags/letsencrypt/"/>
     
   </entry>
   
