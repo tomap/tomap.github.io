@@ -8,7 +8,7 @@
     
     <atom:link href="https://tpî.eu/rss2.xml" rel="self" type="application/rss+xml"/>
     
-    <description>Thomas Piart - tpî.eu - Personal site and blog and resume</description>
+    <description>Thomas Piart - tpî.eu - Personal site, blog and resume</description>
     <pubDate>Sun, 09 Jun 2024 00:00:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
@@ -433,9 +433,9 @@
       
       
       
-      <category domain="https://tpî.eu/tags/hugo/">hugo</category>
-      
       <category domain="https://tpî.eu/tags/static/">static</category>
+      
+      <category domain="https://tpî.eu/tags/hugo/">hugo</category>
       
       <category domain="https://tpî.eu/tags/go/">go</category>
       
