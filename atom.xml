@@ -410,9 +410,9 @@
     
     
     
-    <category term="static" scheme="https://tpî.eu/tags/static/"/>
-    
     <category term="hugo" scheme="https://tpî.eu/tags/hugo/"/>
+    
+    <category term="static" scheme="https://tpî.eu/tags/static/"/>
     
     <category term="go" scheme="https://tpî.eu/tags/go/"/>
     
