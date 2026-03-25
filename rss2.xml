@@ -297,9 +297,9 @@ So I made lot's of screen shots about how well IDN is]]>
 <l]]>
       </description>
       <author>Thomas Piart</author>
+      <category domain="https://tpî.eu/tags/site/">site</category>
       <category domain="https://tpî.eu/tags/setup/">setup</category>
       <category domain="https://tpî.eu/tags/progress/">progress</category>
-      <category domain="https://tpî.eu/tags/site/">site</category>
       <pubDate>Thu, 31 Jan 2013 00:00:00 GMT</pubDate>
       <content:encoded>
         <![CDATA[<p>Thanks to DocPad, I’m learning new languages:</p><ul><li>CoffeeScript is not so easy to learn, but a lot cleaner than plain JS.</li><li>Markdown is also very simple. Makes you focus on text, not on format. Like wiki syntax.</li><li><a href="http://coffeekup.org/">CoffeeKup</a> is interesting but very confusing when you practiced HTML for a long time.</li></ul><p>Originally, this site skeleton was a clone of <a href="https://BaLupton.com">Benjamin Lupton’s website</a>, but I made some changes.<br>Everything has been pushed to GitHub.</p><p>I also restored Disqus comments.</p><p>I am working on integrating a FTP module to Docpad in order to automatically upload new changes to <a href="http://xn--tp-rja.eu">tpî.eu</a>, without having to use a FTP Client.</p>]]>
@@ -315,9 +315,9 @@ So I made lot's of screen shots about how well IDN is]]>
 <li>I am hosted by OVH with a .eu domain (they have an offer for <a href="https:/]]>
       </description>
       <author>Thomas Piart</author>
+      <category domain="https://tpî.eu/tags/site/">site</category>
       <category domain="https://tpî.eu/tags/setup/">setup</category>
       <category domain="https://tpî.eu/tags/progress/">progress</category>
-      <category domain="https://tpî.eu/tags/site/">site</category>
       <pubDate>Sat, 26 Jan 2013 00:00:00 GMT</pubDate>
       <content:encoded>
         <![CDATA[<p>I’m making some progress.</p><p>Some context:</p><ul><li>I am hosted by OVH with a .eu domain (they have an offer for <a href="https://www.ovh.com/fr/domaines/doteu.xml">0.99 euros</a> until January 31)</li><li>I choose a 3 letters domain : <em><a href="http://xn--tp-rja.eu">tpî.eu</a></em> (IDN provide plenty of new <strong>short domain</strong> names!)</li><li>I am using DocPad to run this site, so no PHP, no SQL, no CGI, … which makes a lot of sense since I wouldn’t need a incredible database to store a few ‘static’ blog posts</li><li>After feeling so smart about this 3 letters domain, I found out that IDN are a lot messier than they look (I’ll do a separate post about that)</li></ul><p>To be continued :)</p>]]>
